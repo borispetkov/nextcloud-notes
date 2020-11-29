@@ -179,6 +179,10 @@
         <item quantity="one">%d geselecteerd</item>
         <item quantity="other">%d geselecteerd</item>
     </plurals>
+    <plurals name="bulk_notes_restored">
+        <item quantity="one">Een notitie hersteld</item>
+        <item quantity="other">%1$d notities hersteld</item>
+    </plurals>
     <string name="formatting_help_divider" translateable="false">---</string>
     <string name="formatting_help_codefence_inline" translateable="false">`%1$s`</string>
     <string name="formatting_help_codefence_inline_escaped" translateable="false">\\`%1$s\\`</string>
